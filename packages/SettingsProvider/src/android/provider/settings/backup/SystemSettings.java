@@ -117,5 +117,6 @@ public class SystemSettings {
         Settings.System.QS_LAYOUT,
         Settings.System.QQS_LAYOUT,
         Settings.System.ENABLE_FLOATING_ROTATION_BUTTON,
+        Settings.System.VOLUME_BUTTON_MUSIC_CONTROL,
     };
 }
