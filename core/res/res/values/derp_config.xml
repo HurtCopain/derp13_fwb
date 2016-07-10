@@ -131,4 +131,7 @@
       <item>org.pixelexperience.faceunlock</item>
   </string-array>
 
+  <!-- Sysfs node that exposes fast charge status on supported devices -->
+  <string name="config_fastChargeSysfsNode" />
+
 </resources>
