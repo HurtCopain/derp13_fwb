@@ -5675,7 +5675,10 @@ public final class Settings {
          * @hide
          */
         public static final String STATUS_BAR_QUICK_QS_PULLDOWN = "qs_quick_pulldown";
-
+        /**
+         * @hide
+         */
+        public static final String QS_TRANSPARENCY = "qs_transparency";
         /**
          *  Enable statusbar double tap gesture on to put device to sleep
          * @hide
